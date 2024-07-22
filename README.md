@@ -1,10 +1,12 @@
-# Changes from local repository
+# Lokal repository
 
-# Changes from remote repository
+# Changing a remote repository
 
-# Changes from Alex
+# Git push -u origin master
 
-# Git push -u origin name
-* Это отправление какой либо информации из локального репзитория в удаленный
+# Git branch -M mail
 
-# git add .\README.md 
+# Git Bagdasaryan
+
+# Git init
+* Создаем новую ветку
